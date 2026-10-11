@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hk@users.noreply.github.com
+	name = herman kiyndou hk@users.noreply.github.com
